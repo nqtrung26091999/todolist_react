@@ -1,0 +1,4 @@
+.todolist-complete {
+    text-decoration: line-through;
+    opacity: .3;
+}
